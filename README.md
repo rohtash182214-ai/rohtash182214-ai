@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Rohtash 👋
 
-<!--
-**rohtash182214-ai/rohtash182214-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Learning Python, SQL & Data Visualization
 
-Here are some ideas to get you started:
+🔭 Currently building my skills in data analytics and exploring real-world datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: Python, Excel, SQL, Git & GitHub
+
+💡 Passionate about turning raw data into meaningful insights
+
+📫 Open to entry-level opportunities in Data Analytics
+
+🚀 Follow my journey as I build projects and grow my skills here on GitHub!
